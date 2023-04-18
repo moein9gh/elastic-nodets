@@ -1,0 +1,26 @@
+PUT /blog/_doc/1
+{
+  "title": "An Introduction to Elasticsearch",
+  "content": "Elasticsearch is a powerful, distributed search engine...",
+  "author": "John Doe",
+  "tags": ["elasticsearch", "search", "distributed"],
+  "created_at": "2023-04-01T12:00:00Z"
+}
+
+PUT /blog/_doc/2
+{
+  "title": "Getting Started with Node.js",
+  "content": "Node.js is a runtime environment for executing JavaScript...",
+  "author": "Jane Smith",
+  "tags": ["nodejs", "javascript", "runtime"],
+  "created_at": "2023-04-10T15:00:00Z"
+}
+
+PUT /blog/_doc/3
+{
+  "title": "Mastering TypeScript for Better Development Experience",
+  "content": "TypeScript is a statically typed superset of JavaScript...",
+  "author": "Michael Brown",
+  "tags": ["typescript", "javascript", "typed"],
+  "created_at": "2023-04-15T18:00:00Z"
+}
