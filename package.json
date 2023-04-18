@@ -1,0 +1,26 @@
+{
+  "name": "elastic-nodets",
+  "version": "1.0.0",
+  "description": "a high-performance blog search application using Node.js, TypeScript, and Elasticsearch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moein9gh/elastic-nodets.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "elasticsearch",
+    "elk",
+    "js"
+  ],
+  "author": "https://github.com/moein9gh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moein9gh/elastic-nodets/issues"
+  },
+  "homepage": "https://github.com/moein9gh/elastic-nodets#readme"
+}
